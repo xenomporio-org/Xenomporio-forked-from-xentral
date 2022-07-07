@@ -1,6 +1,6 @@
 # Xenomporio - The free ERP
 
-[![Xenomporio overview](https://github.com/xenomporio-org/Xenomporio/blob/master/Xenomporio_free_ERP_based_on_xentral.jpg "Xenomporio")](https://github.com/xenomporio-org/Xenomporio)
+[![Xenomporio overview](https://github.com/xenomporio-org/Xenomporio-forked-from-xentral/blob/master/Xenomporio_free_ERP_based_on_xentral.jpg "Xenomporio")](https://github.com/xenomporio-org/Xenomporio)
 
 Xenomporio ist eine umfassende webbasierte Anwendung zur Abwicklung aller kaufmännischen Prozesse. Zu den Funktionen gehören unter Anderem:
 
